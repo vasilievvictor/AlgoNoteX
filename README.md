@@ -1,4 +1,4 @@
-![Latest release](https://img.shields.io/github/v/release/vasilievvictor/AlgoNoteX?label=release)
+![Latest release](https://img.shields.io/github/v/release/vasilievvictor/AlgoNoteX?label=release)  https://github.com/vasilievvictor/AlgoNoteX/releases/tag/1.1
 
 # AlgoNoteX 1.1 🚀
 
