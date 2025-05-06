@@ -1,5 +1,5 @@
 ![Latest release](https://img.shields.io/github/v/release/vasilievvictor/AlgoNoteX?label=release)  
-[![Скачать AlgoNoteX 1.1](https://img.shields.io/badge/Скачать-AlgoNoteX%201.1-blue?style=for-the-badge)](https://github.com/vasilievvictor/AlgoNoteX/releases/tag/1.1)
+[![Скачать AlgoNoteX 1.1](https://img.shields.io/badge/Скачать-AlgoNoteX%201.1-blue)](https://github.com/vasilievvictor/AlgoNoteX/releases/tag/1.1)
 
 # AlgoNoteX 1.1 🚀
 
